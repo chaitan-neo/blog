@@ -1,4 +1,4 @@
 blog
 ====
 
-blog application using web.py in Python.
+blog application using web.py in Python..
